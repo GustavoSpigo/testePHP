@@ -25,3 +25,5 @@ CREATE TABLE telefone(
 O entendimento da estrutura e a maneira que a mesma será implementada faz parte do teste.
 # Uso de bibliotecas
 Permitido o uso de bibliotecas CSS e/ou JavaScript que desejar.
+
+Se possível utilizar https://getmdl.io/
